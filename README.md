@@ -1,2 +1,1 @@
-# FUKKAI
-Dataset for the new LLM, FUKKAI
+fuck off
